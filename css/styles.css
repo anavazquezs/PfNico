@@ -346,6 +346,8 @@ body {
 
 .pfolio__img:hover {
   opacity: 1;
+  transform: scale(1.05);
+  transition: ease-in 0.3s;
 }
 
 /* Greenally */
@@ -376,6 +378,8 @@ body {
 
 .gally__img:hover {
   opacity: 1;
+  transform: scale(1.05);
+  transition: ease-in 0.3s;
 }
 
 /* Front-End Store */
@@ -407,6 +411,8 @@ body {
 
 .fend__img:hover {
   opacity: 1;
+  transform: scale(1.05);
+  transition: ease-in 0.3s;
 }
 
 /* Freelancer */
@@ -431,6 +437,8 @@ body {
 
 .projects__freelancer:hover {
   opacity: 1;
+  transform: scale(1.05);
+  transition: ease-in 0.3s;
 }
 
 /* ViWallet */
@@ -461,6 +469,8 @@ body {
 
 .viwallet__img:hover {
   opacity: 1;
+  transform: scale(1.05);
+  transition: ease-in 0.3s;
 }
 
 /* Shapes */
@@ -491,6 +501,8 @@ body {
 
 .shapes__img:hover {
   opacity: 1;
+  transform: scale(1.05);
+  transition: ease-in 0.3s;
 }
 
 /* Contact */
@@ -536,6 +548,7 @@ body {
 
 .hello__link:hover {
   background-color: #405751;
+  transition: ease-in 0.3s;
 }
 
 .upButton {
@@ -564,4 +577,5 @@ body {
 
 .up:hover {
   background-color: #405751;
+  transition: ease-in 0.3s;
 }
